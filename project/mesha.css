@@ -1,0 +1,386 @@
+body{
+	background-color: lightblue;
+	width: 1024px;
+	margin: auto;
+	background-image:url(background.jpg);
+	margin-top: 10px;
+}
+#home{
+	padding: 10px;
+	float: left;
+	border-radius: 6px;
+	background-color: red;
+	color: white;
+	margin-left: 10px;
+	margin-right: 10px;
+	font-family: arial;
+	font-size: 11px;
+	font-weight: bolder;
+	cursor: pointer;
+
+
+}
+#about{
+	padding: 10px;
+	float: left;
+	border-radius: 6px;
+	background-color: red;
+	color: white;
+	margin-right: 10px;
+	font-family: arial;
+	font-size: 11px;
+	font-weight: bolder;
+cursor: pointer;
+}
+#post{
+	padding: 10px;
+	margin-right: 10px;
+	float: left;
+	border-radius: 6px;
+	background-color: red;
+	color: white;
+	font-family: arial;
+	font-size: 11px;
+	font-weight: bolder;
+	cursor: pointer;
+}
+#ofa{margin-right: 10px;
+	color: white;
+	padding: 10px;
+	float: left;
+	border-radius: 6px;
+	background-color: red;
+	font-family: arial;
+	font-size: 11px;
+	font-weight: bolder;
+	cursor: pointer;
+}
+
+#home:hover{
+	background-color: green;
+}
+
+#about:hover{
+	background-color: green;
+}
+
+#post:hover{
+	background-color: green;
+}
+
+#ofa:hover{
+	background-color: green;
+}
+#left{
+	float: right;
+}
+#log{
+	padding: 10px;
+	margin-right: 10px;
+	float: left;
+	border-radius: 6px;
+	background-color: green;
+	color: white;
+	font-family: arial;
+	font-size: 11px;
+	font-weight: bolder;
+	cursor: pointer;
+}
+#log:hover{
+	background-color: darkblue;
+}
+#sign{
+	padding: 10px;
+	margin-right: 10px;
+	float: left;
+	border-radius: 6px;
+	background-color: green;
+	color: white;
+	font-family: arial;
+	font-size: 11px;
+	font-weight: bolders;
+	cursor: pointer;
+}
+#sign:hover{
+	background-color: darkblue;
+}
+
+
+
+
+
+#submita{
+	padding: 5px;
+	float: left;
+	border-radius: 4px;
+	background-color: red;
+	color: white;
+	margin-right: 10px;
+	font-family: arial;
+	font-size: 11px;
+	font-weight: bolder;
+cursor: pointer;
+}
+
+.footer{
+	clear: both;
+	width: 1024px;
+	margin: 0px;
+	border: 1px solid;
+	background-color: hotpink;
+	height: 180px;
+	box-sizing: border-box;
+	outline: none;
+	opacity: 0.767890;
+}
+
+
+.footer1{
+	float: left;
+	width: 320px;
+}
+
+.footer2{
+	float: left;
+	width: 320px;
+}
+#wew{
+	color: blue;
+	padding: 5px;
+}
+.footer3 input , textarea{
+	width: 20%;
+	margin-bottom: 5px;
+	border: 1px solids;
+	padding: 2px;
+	border-radius: 10px;
+	opacity:1;
+	
+
+}
+
+#active{
+	color: green;
+}
+
+#main-contect{
+
+	width: 100%;
+	max-width: 1600px;
+	min-height: 400px;
+	max-height:auto;
+	background-color: whitesmoke;
+	margin-bottom: 10px;
+	margin-top: 35px;
+	margin-right: auto;
+	margin-left: autos;
+	opacity:1;
+
+}
+
+
+#kichwa{
+	text-align: center;
+	font-size: 22px;
+	font-family: arial;
+	color: green;
+}
+
+
+#logo{
+	clear: both;
+	font-family: arial;
+	color: blue;
+	float: left;
+	font-style: italic;
+	font-weight:bold;
+	font-size: 22px;
+	margin-left: 100px;
+
+}
+
+#new_post img{
+	width: 300px;
+	opacity: 1;
+	margin: 10px;
+	border-radius: 10px;
+}
+
+#main-contecthome{
+
+	width: 100%;
+	max-width: 1600px;
+	min-height: 400px;
+	max-height:auto;
+	background-color: whitesmoke;
+	margin-bottom: 10px;
+	margin-top: 35px;
+	margin-right: auto;
+	margin-left: autos;
+	opacity:0.5;
+
+}
+
+
+#repair img{
+	width: 300px;
+	margin: 10px;
+	border-radius: 10px;                 
+}
+
+#picha{
+	width: 100px;
+	border-radius: 10px;
+	align-content: center;
+}
+
+#about img{
+	width: 500px;
+	margin: 10px;
+
+}
+#ingia{
+	text-align: center;
+	padding: 10px;
+margin-top: 80px;
+margin-bottom: 200px;
+border-radius: 5px;
+
+}
+ #mail{
+ 	padding: 10px;
+ 	color: blue;
+ 	border-radius: 5px;
+ 	clear: both;
+ 	font-weight: bolder;
+ 	border: 1px solid;
+ }
+
+ #pass{
+padding: 10px;
+ 	color: blue;
+ 	border-radius: 5px;
+ 	clear: both;
+ 	font-weight: bolder;
+ 	margin: 10px;
+ 	border: 1px solid;
+ }
+
+
+#logi{
+	font-weight: bolder;
+	background-color: blue;
+	border-radius: 5px;
+	color: white;
+	padding: 10px;
+	clear: both;
+	margin: 10px;
+	cursor: pointer;
+}
+
+
+#logo-batani{
+color:white;
+margin-right: 800px;
+margin-left: 700px;
+border-radius: 50%;
+padding: 20px;
+background-color:blue;
+font-weight: bolder;
+font-size: 22px;
+ box-shadow: 5px 5px lightblue;
+}
+
+#saini1{
+	text-align: center;
+	color: blue;
+	font-weight: bolder;
+	margin: auto;
+	clear: both;
+	margin-top: 100px;
+
+
+}
+#saini2{
+	text-align: center;
+	clear: both;
+	margin: 10px;
+	padding: 10px;
+	border: 1px solid blue;
+	border-radius: 5px;
+}
+#name{
+	padding: 10px;
+ 	color: blue;
+ 	border-radius: 5px;
+ 	clear: both;
+ 	font-weight: bolder;
+ 	border: 1px solid;
+ 	margin: 5px;
+}
+
+
+#search{
+	text-align: center;
+     font-size: 20px;
+	padding: 10px;
+	color:black;
+	background-color:white;
+	border: 2px solid blue;
+	font-weight: bolder;
+	border-radius: 10px;
+	opacity:1;
+	
+
+}
+
+
+#up{
+	padding: 10px;
+	border-radius: 10px;
+	background-color: blue;
+	color: white;
+	font-weight: bolder;
+	font-size: 22px;
+	cursor: pointer;
+}
+#fonti{
+	font-weight: bolder;
+	margin-top: 20px;
+	color: blue;
+	font-size: 30px;
+	text-align: center;
+}
+#saini3{
+	color: black;
+	font-size: 10px;
+	text-align: center;
+}
+
+
+
+#ofa1{
+	clear: both;
+	margin: 10px;
+	border: solid 1px;
+	width: 100px;
+	height: 50px;
+}
+#search2{
+	padding: 10px;
+	width: 6s0px;
+	font-weight: bolder;
+	border-radius: 4px;
+	border: 1px solid blue ;
+	border-radius: 5px;
+	background-color: blue;
+	color: white;
+	cursor: pointer;
+
+
+}
+
+
+#mwisho{
+	color: green;
+}
